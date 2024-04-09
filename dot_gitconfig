@@ -1,0 +1,19 @@
+[user]
+	name = Russell Feldhausen
+	email = russfeldh@gmail.com
+	signingkey = 95A8635741440D66
+[commit]
+#	gpgsign = true
+	verbose = true
+[init]
+	defaultBranch = main
+[alias]
+	plog = "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
+
+[color]
+	ui = true
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	editor = nano
