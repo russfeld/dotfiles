@@ -3,7 +3,7 @@
 	email = russfeldh@gmail.com
 	signingkey = 95A8635741440D66
 [commit]
-#	gpgsign = true
+	gpgsign = true
 	verbose = true
 [init]
 	defaultBranch = main
